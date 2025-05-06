@@ -5,6 +5,3 @@
 [submodule "mbest"]
 	path = mbest
 	url = https://github.com/patperry/r-mbest
-[submodule "utf8"]
-	path = utf8
-	url = https://github.com/patperry/r-utf8
